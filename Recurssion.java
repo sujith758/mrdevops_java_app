@@ -4,7 +4,11 @@
 
 
         
+<<<<<<< HEAD
             int j, count = 10, m;
+=======
+           
+>>>>>>> 45ad124ff1eeb92e8103811848f96b471085842e
 
             Scanner s = new Scanner(System.in);
 
