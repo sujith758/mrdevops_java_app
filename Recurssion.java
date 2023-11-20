@@ -4,7 +4,7 @@
 
 
         
-            int n, count = 0, m;
+           
 
             Scanner s = new Scanner(System.in);
 
