@@ -2,14 +2,8 @@
 
     import java.util.Scanner;
 
-    public class Reverse_Recursion 
 
-    {
-
-        public static void main(String[] args) 
-
-        {
-
+        
             int n, count = 0, m;
 
             Scanner s = new Scanner(System.in);
