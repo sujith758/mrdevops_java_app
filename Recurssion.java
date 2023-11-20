@@ -1,4 +1,4 @@
-    import static java.lang.StrictMath.pow;
+
 
     import java.util.Scanner;
 
